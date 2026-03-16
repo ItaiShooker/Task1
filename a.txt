@@ -1,1 +1,3 @@
+This is the change from web part 3
+
 Change for part 3 in VS
