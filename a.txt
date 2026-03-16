@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-This is a different change
->>>>>>> c8195bc480a96eabf7c141669ef7accd207eecbe
+This is the change
